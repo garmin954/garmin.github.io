@@ -15,6 +15,7 @@ toc: true
 
 ### let是什么
 > ES6新增了`let`命令，用来声明变量。它的用法类似于`var`，但是所声明的变量，只在`let`命令所在的代码块内有效。
+<!--more-->
 ```javascript
 {
   let a = 10;
