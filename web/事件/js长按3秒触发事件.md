@@ -1,11 +1,12 @@
 ---
-title:按住三秒的事件
+title: 按住三秒的事件
 categories:
 - js
-tags
+tags:
 - js
 - 事件
 ---
+
 ~~~
 @touchstart.prevent="touchin(i, $event)"
 @touchend.prevent="cleartime()"
