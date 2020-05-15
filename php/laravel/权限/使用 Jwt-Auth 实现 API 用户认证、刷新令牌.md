@@ -4,6 +4,7 @@ title: Jwt-Auth实现API用户认证、刷新令牌
 date: 2020-05-05 21:15:57
 
 categories:
+- php
 - laravel
 - auth
 
